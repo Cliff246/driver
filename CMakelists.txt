@@ -1,0 +1,10 @@
+
+cmake_minimum_required(VERSION 3.10)
+
+
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+set(CMAKE_BUILD_TYPE Debug)      # Ensures the default build type is Debug
+set(CMAKE_C_FLAGS_DEBUG "-g")    # Adds `-g` flag for C
+set(CMAKE_CXX_FLAGS_DEBUG "-g")  # Adds `-g` flag for C++
+project(ti_driver)
+add_subdirectory(src)

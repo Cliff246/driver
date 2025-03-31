@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/heathfortin/programing/ti/driver/build/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I/opt/homebrew/include/libusb-1.0 -I/Users/heathfortin/programing/ti/driver/src/usb-1.0 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/driver.dir/driver.c.o -c /Users/heathfortin/programing/ti/driver/src/driver.c",
+  "file": "/Users/heathfortin/programing/ti/driver/src/driver.c",
+  "output": "src/CMakeFiles/driver.dir/driver.c.o"
+}
+]
